@@ -7,4 +7,4 @@ After studying psychology at the university of Tours (France) and Bucknell (USA)
 
 ## Cours en ligne d'apprentissage automatique et Python
 
-[![Lien vers vidéos en français](https://jlefortbesnard.github.io/Structure/MLclass.html)
+[Lien vers vidéos en français](https://jlefortbesnard.github.io/Structure/MLclass.html)
