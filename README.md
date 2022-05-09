@@ -1,5 +1,5 @@
 <p><pre align="center"><strong>Jérémy Lefort-Besnard </strong> </pre></p>
-<p><pre align="center"><a href="https://jlefortbesnard.github.io">Homepage</a> | <a href="https://twitter.com/JLefortBesnard">Twitter</a> | <a href="https://github.com/jlefortbesnard">GitHub</a> | <a href="https://www.researchgate.net/profile/Jeremy-Lefort-Besnard">ResearchGate</a> | <a href="https://www.linkedin.com/in/jeremy-lefort-besnard-a806b28a">LinkedIn</a> | <a href="https://jlefortbesnard.github.io/Structure/MLclass.html">Cours d'apprentissage automatique & Python (en français)</a> </pre></p>
+<p><pre align="center"><a href="https://jlefortbesnard.github.io" target="_blank">Homepage</a> | <a href="https://twitter.com/JLefortBesnard">Twitter</a> | <a href="https://github.com/jlefortbesnard">GitHub</a> | <a href="https://www.researchgate.net/profile/Jeremy-Lefort-Besnard">ResearchGate</a> | <a href="https://www.linkedin.com/in/jeremy-lefort-besnard-a806b28a">LinkedIn</a> | <a href="https://jlefortbesnard.github.io/Structure/MLclass.html">Cours d'apprentissage automatique & Python (en français)</a> </pre></p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlefortbesnard&layout=compact"
      alt="Programming stats" align="right"/>
