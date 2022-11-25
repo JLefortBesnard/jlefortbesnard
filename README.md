@@ -1,4 +1,4 @@
-<p><pre align="center"><a href="https://jlefortbesnard.github.io">Homepage</a> | <a href="https://twitter.com/JLefortBesnard">Twitter</a> | <a href="https://framapiaf.org/@ohso_X">Mastodon</a> |<a href="https://www.researchgate.net/profile/Jeremy-Lefort-Besnard">ResearchGate</a> | <a href="https://www.linkedin.com/in/jeremy-lefort-besnard-a806b28a">LinkedIn</a> | <a href="https://jlefortbesnard.github.io/Structure/MLclass.html">Mes cours d'apprentissage automatique & Python (en français)</a> </pre></p>
+<p><pre align="center"><a href="https://jlefortbesnard.github.io">Homepage</a> | <a href="https://twitter.com/JLefortBesnard">Twitter</a> | <a href="https://framapiaf.org/@ohso_X">Mastodon</a> |<a href="https://www.researchgate.net/profile/Jeremy-Lefort-Besnard">ResearchGate</a> | <a href="https://www.linkedin.com/in/jeremy-lefort-besnard-a806b28a">LinkedIn</a> | <a href="https://jlefortbesnard.github.io/Structure/MLclass.html">Mes cours d'apprentissage automatique & Python (French)</a> </pre></p>
 
 <img src="https://raw.githubusercontent.com/JLefortBesnard/JLefortBesnard.github.io/master/Images/picme9.PNG" alt="profil pic" align="right" style="width:160px;"/>
 
