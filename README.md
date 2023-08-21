@@ -2,15 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/JLefortBesnard/JLefortBesnard.github.io/master/Images/picme9.PNG" alt="profil pic" align="right" style="width:160px;"/>
 
-PhD in neuroscience
+<b>PhD in neuroscience</b>
 
-Psychologist title
+<b>Psychologist title</b>
 
-Intensive training in machine learning, inferential statistics, brain imaging and psychiatry
+<b>Intensive training in machine learning, inferential statistics, brain imaging and psychiatry</b>
 
-Main focus on neuroimaging reproducibility
+<b>Main focus on neuroimaging reproducibility</b>
 
-Currently @<a href="https://team.inria.fr/empenn/team-members/"  target="_blank">Empenn team, INRIA, Rennes, France</a>
+<b>Currently @<a href="https://team.inria.fr/empenn/team-members/"  target="_blank">Empenn team, INRIA, Rennes, France</a></b>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jlefortbesnard&layout=compact"
      alt="Programming stats" align="middle" style="width:270px"/>
