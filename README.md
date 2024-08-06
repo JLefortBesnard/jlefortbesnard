@@ -1,4 +1,4 @@
-<p><pre align="center"><a href="https://jlefortbesnard.github.io">Website</a> | <a href="https://jlefortbesnard.bsky.social/">Bluesky</a> | <a href="https://jlefortbesnard.github.io/Structure/publications.html">Publications</a> | <a href="https://jlefortbesnard.github.io/Structure/cv.html">CV</a> | <a href="https://jlefortbesnard.github.io/Structure/MLclass.html">Mes cours d'apprentissage automatique & Python (French)</a> </pre></p>
+<p><pre align="center"><a href="https://jlefortbesnard.github.io" target="_blank">Website</a> | <a href="https://jlefortbesnard.bsky.social/" target="_blank">Bluesky</a> | <a href="https://jlefortbesnard.github.io/Structure/publications.html" target="_blank">Publications</a> | <a href="https://jlefortbesnard.github.io/Structure/cv.html" target="_blank">CV</a> | <a href="https://jlefortbesnard.github.io/Structure/MLclass.html" target="_blank">Mes cours d'apprentissage automatique & Python (French)</a> </pre></p>
 
 <img src="https://raw.githubusercontent.com/JLefortBesnard/JLefortBesnard.github.io/master/Images/picme9.PNG" alt="profil pic" align="right" style="width:160px;"/>
 
